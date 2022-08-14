@@ -1,4 +1,5 @@
-- 👋 Hey there! I'm Atif Riaz.
+# 👋 Hey there! I'm Atif Riaz.
+
 - LinkedIn ➡️ https://www.linkedin.com/in/iamatifriaz/
 - Blog ➡️ https://atifriaz.hashnode.dev/
 - Twtter ➡️ https://twitter.com/iamatifriaz
