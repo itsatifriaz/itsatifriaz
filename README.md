@@ -1,8 +1,9 @@
 # 👋 Hey there! I'm Atif Riaz.
 
 - LinkedIn ➡️ https://www.linkedin.com/in/iamatifriaz/
+- X/Twtter ➡️ https://twitter.com/iamatifriaz
 - Blog ➡️ https://atifriaz.hashnode.dev/
-- Twtter ➡️ https://twitter.com/iamatifriaz
+
 
 
 <!---
